@@ -1,9 +1,9 @@
 Movie API exercise with NestJS to build enterprise NodeJS applications
 
-🎞 Get information of a movie / movies
-✍️ Create movie info
-❌ Delete movie info
-🔄 Update movie info
+🎞 Get information of a movie / movies <br>
+✍️ Create movie info <br>
+❌ Delete movie info <br>
+🔄 Update movie info <br>
 
 ## Installation
 
